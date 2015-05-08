@@ -66,3 +66,6 @@ npm test
 
 ### Browser tests
 If you don't want or can't run console tests, you can use the included HTML test runner. Open in your browser ```tests.html``` located inside this repository. You should see the current results of tests. To repeat execution  just reload the page.
+
+## Inspiration / idea
+The latex output idea and first implementation comes from [@joggino](https://github.com/joggino). Please see Variety [pull request #91](https://github.com/variety/variety/pull/91) for additional info.
