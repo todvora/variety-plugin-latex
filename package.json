@@ -1,6 +1,6 @@
 {
   "name": "variety-plugin-latex",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Variety plugin, outputs results of Variety analysis in Latex format.",
   "main": "index.js",
   "scripts": {
